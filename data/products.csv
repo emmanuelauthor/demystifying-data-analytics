@@ -1,0 +1,61 @@
+ProductID,ProductName,Category,Subcategory,ListPrice,UnitCost,LaunchDate,Collection
+P1001,Bristol 3-Seat Sofa,Furniture,Sofa,1199,572.55,2018-01-01,Core
+P1002,Maddox Loveseat,Furniture,Sofa,899,458.3,2018-01-01,Core
+P1003,Ellis Accent Chair,Furniture,Chair,449,223.47,2018-01-01,Core
+P1004,Porter Swivel Chair,Furniture,Chair,529,259.7,2018-01-01,Core
+P1005,Hudson Oak Coffee Table,Furniture,Table,399,195.45,2018-01-01,Core
+P1006,Avery Side Table,Furniture,Table,179,93.14,2018-01-01,Core
+P1007,Linden Dining Table,Furniture,Table,999,527.83,2018-01-01,Core
+P1008,Carver 6-Drawer Dresser,Furniture,Storage,749,357.58,2018-01-01,Core
+P1009,Mercer Bookcase,Furniture,Storage,299,152.7,2018-01-01,Core
+P1010,Wren Media Console,Furniture,Storage,649,315.34,2018-01-01,Core
+P1011,Cloudsoft Sheet Set,Bedding & Bath,Bedding,129,57.72,2018-01-01,Core
+P1012,Everyday Duvet Cover,Bedding & Bath,Bedding,149,66.26,2018-01-01,Core
+P1013,Down-Alt Comforter,Bedding & Bath,Bedding,189,80.89,2018-01-01,Core
+P1014,Linen Pillow Pair,Bedding & Bath,Bedding,69,30.01,2018-01-01,Core
+P1015,Turkish Towel Set,Bedding & Bath,Bath,89,37.46,2018-01-01,Core
+P1016,Waffle Bath Robe,Bedding & Bath,Bath,79,34.69,2018-01-01,Core
+P1017,Bath Mat,Bedding & Bath,Bath,39,16.26,2018-01-01,Core
+P1018,Weighted Throw Blanket,Bedding & Bath,Bedding,119,48.85,2018-01-01,Core
+P1019,Shower Curtain,Bedding & Bath,Bath,45,18.31,2018-01-01,Core
+P1020,Mattress Topper,Bedding & Bath,Bedding,179,72.3,2018-01-01,Core
+P1021,Cast Iron Skillet,Kitchen & Dining,Cookware,59,26.65,2018-01-01,Core
+P1022,10-Piece Cookware Set,Kitchen & Dining,Cookware,249,110.97,2018-01-01,Core
+P1023,Stoneware Dinner Set,Kitchen & Dining,Dinnerware,129,59.38,2018-01-01,Core
+P1024,Glass Tumbler Set,Kitchen & Dining,Dinnerware,39,16.35,2018-01-01,Core
+P1025,Dutch Oven,Kitchen & Dining,Cookware,149,66.56,2018-01-01,Core
+P1026,Chef's Knife,Kitchen & Dining,Tools,89,39.29,2018-01-01,Core
+P1027,Utensil Crock Set,Kitchen & Dining,Tools,35,15.08,2018-01-01,Core
+P1028,Cotton Table Runner,Kitchen & Dining,Linens,29,13.22,2018-01-01,Core
+P1029,Napkin Set,Kitchen & Dining,Linens,24,10.7,2018-01-01,Core
+P1030,Pour-Over Coffee Kit,Kitchen & Dining,Tools,49,21.43,2018-01-01,Core
+P1031,Framed Botanical Print,Decor,Wall,89,32.44,2018-01-01,Core
+P1032,Round Wall Mirror,Decor,Wall,149,59.59,2018-01-01,Core
+P1033,Ceramic Vase,Decor,Accents,39,15.44,2018-01-01,Core
+P1034,Soy Candle Trio,Decor,Accents,32,12.34,2018-01-01,Core
+P1035,Wool Area Rug 5x8,Decor,Textiles,399,148.33,2018-01-01,Core
+P1036,Throw Pillow Cover,Decor,Textiles,29,11.71,2018-01-01,Core
+P1037,Faux Olive Tree,Decor,Accents,129,49.45,2018-01-01,Core
+P1038,Woven Storage Basket,Decor,Accents,45,16.94,2018-01-01,Core
+P1039,Canvas Wall Art,Decor,Wall,119,47.76,2018-01-01,Core
+P1040,Jute Doormat,Decor,Textiles,25,9.26,2018-01-01,Core
+P1041,Brass Table Lamp,Lighting,Lamps,129,58.32,2018-01-01,Core
+P1042,Arc Floor Lamp,Lighting,Lamps,249,106.7,2018-01-01,Core
+P1043,Rattan Pendant,Lighting,Ceiling,189,80.38,2018-01-01,Core
+P1044,Ceramic Bedside Lamp,Lighting,Lamps,89,40.26,2018-01-01,Core
+P1045,Linear Chandelier,Lighting,Ceiling,349,147.71,2018-01-01,Core
+P1046,LED Desk Lamp,Lighting,Lamps,59,25.93,2018-01-01,Core
+P1047,String Lights,Lighting,Accents,25,11.12,2018-01-01,Core
+P1048,Flush Mount Light,Lighting,Ceiling,99,41.66,2018-01-01,Core
+P1049,Teak Patio Set,Outdoor,Furniture,1299,643.71,2018-01-01,Core
+P1050,Adirondack Chair,Outdoor,Furniture,229,110.67,2018-01-01,Core
+P1051,Outdoor Lounge Chair,Outdoor,Furniture,349,170.37,2018-01-01,Core
+P1052,Outdoor Rug,Outdoor,Decor,129,60.81,2018-01-01,Core
+P1053,Solar Lanterns (2),Outdoor,Decor,49,23.26,2018-01-01,Core
+P1054,Grill Tool Set,Outdoor,Grill,59,28.3,2018-01-01,Core
+P1055,Planter Trio,Outdoor,Decor,69,32.98,2018-01-01,Core
+P1056,Hammock with Stand,Outdoor,Furniture,199,97.87,2018-01-01,Core
+P1057,Harlow Modular Sofa,Furniture,Sofa,1099,505.54,2025-02-01,Harlow Collection
+P1058,Harlow Lounge Chair,Furniture,Chair,499,229.54,2025-02-01,Harlow Collection
+P1059,Harlow Marble Coffee Table,Furniture,Table,549,252.54,2025-02-01,Harlow Collection
+P1060,Harlow Sideboard,Furniture,Storage,799,367.54,2025-02-01,Harlow Collection

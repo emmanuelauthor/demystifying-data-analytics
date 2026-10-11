@@ -1,0 +1,101 @@
+LICENSE
+Companion files for "Demystifying Data Analytics: Data Analysis, Visualization
+and AI-Assisted Insights for Beginners and Business Professionals"
+by Emmanuel K. Okunola (first edition, 2026). Package version 1.0.0.
+
+This repository uses two licenses:
+
+  Part 1. Data, workbooks and documentation: Creative Commons Attribution 4.0
+          International (CC BY 4.0).
+  Part 2. The Python script scripts/ch09_forecast.py: MIT License.
+
+The book itself (its text, figures and design) is not part of this repository
+and is not licensed here. All rights in the book are reserved by the author.
+
+
+==============================================================================
+PART 1. DATA, WORKBOOKS AND DOCUMENTATION: CC BY 4.0
+==============================================================================
+
+Covered files: everything in the data/ and answers/ folders (all CSV files,
+cedar_lane.db, CedarLane_Practice.xlsx, store_export_aug2025_messy.csv and
+CedarLane_Answers.xlsx), and the documentation (README.md, README.txt,
+scripts/README.md, CHANGELOG.md).
+
+Copyright (c) 2026 Emmanuel K. Okunola
+
+These files are licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/
+
+Plain-language summary (not a substitute for the license):
+
+  You are free to:
+    Share: copy and redistribute the material in any medium or format,
+           for any purpose, even commercially.
+    Adapt: remix, transform, and build upon the material for any purpose,
+           even commercially.
+
+  Under the following terms:
+    Attribution: you must give appropriate credit, provide a link to the
+           license, and indicate if changes were made. You may do so in any
+           reasonable manner, but not in any way that suggests the licensor
+           endorses you or your use.
+    No additional restrictions: you may not apply legal terms or
+           technological measures that legally restrict others from doing
+           anything the license permits.
+
+What this means for readers: you may use the data in your own practice work,
+in class, and in public portfolio projects (for example, a dashboard on your
+website, a notebook on GitHub, or a case study in a job application), as long
+as you credit the source. A suitable credit line is:
+
+  Data from Demystifying Data Analytics by Emmanuel K. Okunola
+
+or, where space allows:
+
+  Data from Demystifying Data Analytics by Emmanuel K. Okunola,
+  github.com/emmanuelauthor/demystifying-data-analytics, licensed under
+  CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Modified by
+  <your name> (if you changed it).
+
+Fictional data: Cedar & Lane Home Goods, its stores, staff, customers and all
+numbers are fictional and were generated for teaching. Customer names and
+email addresses (example.com) are invented. Any resemblance to real people or
+companies is coincidental. Please do not present the data as describing a
+real business.
+
+No warranties are given. The license may not give you all of the permissions
+necessary for your intended use.
+
+The full legal code of CC BY 4.0 is at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+
+==============================================================================
+PART 2. THE PYTHON SCRIPT: MIT LICENSE
+==============================================================================
+
+Covered file: scripts/ch09_forecast.py
+
+MIT License
+
+Copyright (c) 2026 Emmanuel K. Okunola
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

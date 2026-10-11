@@ -1,0 +1,20 @@
+# Keep documentation and code with consistent line endings.
+* text=auto
+*.md     text eol=lf
+*.txt    text eol=lf
+*.py     text eol=lf
+LICENSE  text eol=lf
+VERSION  text eol=lf
+
+# Binary files: stored byte for byte, with no line-ending conversion, text diffs or merges.
+# The CSV files are marked binary on purpose, so they always match MANIFEST-SHA256.txt
+# (the messy Chapter 6 file contains deliberate oddities that must not be "fixed").
+*.csv    binary
+*.xlsx   binary
+*.xlsm   binary
+*.db     binary
+*.sqlite binary
+*.zip    binary
+*.pdf    binary
+*.png    binary
+*.jpg    binary

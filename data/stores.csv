@@ -1,0 +1,10 @@
+StoreID,StoreName,City,State,Region,OpenDate,SquareFeet
+S01,Columbus Easton,Columbus,OH,Central Ohio,2014-05-10,14000
+S02,Cincinnati Kenwood,Cincinnati,OH,Southwest Ohio,2015-09-12,12500
+S03,Cleveland Crocker Park,Westlake,OH,Northeast Ohio,2016-04-02,12000
+S04,Indianapolis Keystone,Indianapolis,IN,Indiana,2017-10-21,13000
+S05,Louisville St. Matthews,Louisville,KY,Kentucky,2018-08-18,11000
+S06,Pittsburgh Shadyside,Pittsburgh,PA,Pennsylvania,2019-11-02,10500
+S07,Ann Arbor Arborland,Ann Arbor,MI,Michigan,2021-06-05,9500
+S08,Grand Rapids Knapp's Corner,Grand Rapids,MI,Michigan,2025-03-15,9000
+ONL,Online (cedarandlane.com),Columbus,OH,Online,2016-01-15,0

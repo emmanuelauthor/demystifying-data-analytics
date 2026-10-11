@@ -1,0 +1,3 @@
+TestName,Variant,StartDate,EndDate,Visitors,Orders
+Checkout Redesign,A (Control),2025-11-03,2025-12-14,31050,733
+Checkout Redesign,B (One-page checkout),2025-11-03,2025-12-14,30980,824
